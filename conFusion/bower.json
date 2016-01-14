@@ -1,0 +1,28 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/ythalorossy/coursera_web_frameworks",
+  "authors": [
+    "Ythalo Rossy Saldanha Lira <ythalorossy@gmail.com>"
+  ],
+  "description": "Website for an awesome restaurant",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "bootstrap-social": "~4.12.0"
+  }
+}
